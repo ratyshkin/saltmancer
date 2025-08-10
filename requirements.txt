@@ -1,0 +1,4 @@
+click>=8.1
+eth-utils>=4.1
+eth-abi>=5.1
+rlp>=4.0
